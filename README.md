@@ -35,8 +35,8 @@ L)	Made built max heap.
 
 M)	Made Get_minimum.\
 Get the minimum value of the priority queueu\
-N)	 Def Print(self):
-Prints the values.\
+N)	 Def Print(self):\
+Prints the values.
 
 ## Working:
 Download the code and run it in your environment.\
