@@ -22,20 +22,20 @@ checking if the input key is greater than undex value in the priority queue\
 H)	Made a function Max heapify.\
 comparing the right node index with heap size and heap index\
 comparing the left node index with heap size and heap index\
-swaping if the given condition satisfy\
+swaping if the given condition satisfy
 
 I)	made a function extract max.\
 J)	made a function enqueuer\
-which enters the value in o(1).\
+which enters the value in o(1).
 
 K)	Made a function get maximum.\
-Which gives us the maximum value.\
+Which gives us the maximum value.
 
-L)	Made built max heap.\
+L)	Made built max heap.
 
 M)	Made Get_minimum.\
 Get the minimum value of the priority queueu\
-N)	 Def Print(self):\
+N)	 Def Print(self):
 Prints the values.\
 
 ## Working:
