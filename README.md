@@ -40,7 +40,7 @@ Prints the values.
 
 ## Working:
 Download the code and run it in your environment.\
-Make sure to use different values to get a better understanding of the working of the code.\
+Make sure to use different values to get a better understanding of the working of the code.
 
 
 ## Group Members:
